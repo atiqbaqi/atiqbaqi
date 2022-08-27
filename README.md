@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atiqbaqi
-- 👀 I’m interested in Technoology
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning node.js and AWS
 - 💞️ I’m looking to collaborate on micro services
 - 📫 How to reach me atiqbaqi@gmail.com
