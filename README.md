@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atiqbaqi
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning python, postgis
+- 🌱 I’m currently learning python, odoo, react
 - 💞️ I’m looking to collaborate on micro services
 - 📫 How to reach me atiqbaqi@gmail.com
 
